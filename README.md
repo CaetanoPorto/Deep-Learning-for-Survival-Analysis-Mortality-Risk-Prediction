@@ -1,5 +1,7 @@
 # Deep-Learning-for-Survival-Analysis-Mortality-Risk-Prediction
 
+PROJETO EM DESENVOLVIMENTO -- 07/04/2026
+
 Deep Learning para Análise de Sobrevivência: Predição de Risco de Mortalidade
 Este repositório contém a implementação do meu Trabalho de Conclusão de Curso (TCC), focado em aplicar técnicas de Deep Learning para Análise de Sobrevivência, superando as limitações dos modelos estatísticos tradicionais ao lidar com dados censurados e relações não lineares complexas.
 
